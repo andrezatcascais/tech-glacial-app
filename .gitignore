@@ -1,0 +1,33 @@
+# Dependências do Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Arquivos de cache
+.next/cache/
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Arquivos de cache do Next.js
+.next/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de configuração do sistema e IDEs
+.DS_Store
+*.swp
+.vscode/
+*.log
+
+# Outros
+coverage/
+dist/
+build/
